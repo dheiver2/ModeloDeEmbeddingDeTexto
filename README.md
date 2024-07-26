@@ -118,4 +118,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 ---
 
-Para dúvidas ou sugestões, entre em contato com [seu email].
+Para dúvidas ou sugestões, entre em contato com dheiver.santos@gmail.com.
